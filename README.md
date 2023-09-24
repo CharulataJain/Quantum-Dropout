@@ -1,6 +1,5 @@
 # Soft Dropout in Quantum Convolutional Neural Network
 
-### 
 Quantum convolutional neural network (QCNN), an early application for quantum computers in
 the NISQ era, has been consistently proven successful as a machine learning (ML) algorithm for
 several tasks with significant accuracy. Derived from its classical counterpart, QCNN is prone to
